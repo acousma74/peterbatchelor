@@ -1,0 +1,416 @@
+
+
+/* CSS Document */
+	body 	{
+	font-family: Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	/*max-width: 500px;*/
+	/*margin: auto;*/
+	margin-left: 80px; 
+	/*margin-right: 80px; */
+	width:calc(100%-120px);
+	color: #444444;
+	/*background-color: #000000;*/
+	background-attachment: scroll;
+	background-image: url(grids/images/batchelorBanner4.png);
+	background-size: 90px 714px;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+#batchelor		{ position: absolute;
+				left: 700px;
+				top: 40px;
+				/*color: #000000;*/
+				font-size: 8px;
+				}
+#batchelor h1 {font-size: 6px;}
+
+#contents		{position: relative;
+				/*margin-left: 97px;*/
+				
+				/*width: 639px;*/
+				max-width: 800px;
+				margin: auto;	
+				top: 70px;		
+				/*font-size: 18px; */
+				color: #666666;
+				}
+/* HEADINGS */	
+h1				{font-size: 40pt;
+				margin: 0px 0px 20px 0px;
+				font-weight: normal;
+				}
+h1.composition	{margin: 0px 0px 0px 0px;}
+
+
+		h1.composition a:link 		{color: #FF4444;
+									text-decoration: none;}
+		h1.composition a:visited   {color: #FF4444;
+									text-decoration: none;}
+		h1.composition a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		h1.composition a:active 		{color: #FF4444; 
+								text-decoration: none;}		
+
+h1.ilm			{margin: 6px 0px 0px 0px;
+				font-size: 20pt;
+				}
+
+
+h2				{font-size: 24pt;
+				margin: 0 0 0 0;
+				font-weight: normal;
+				}
+
+h3				{font-size: 48pt;
+				margin: 0px 0px 0px 0px;
+				font-weight: normal;
+				}
+						
+				
+h4				{font-size: 26pt;
+				margin: 0 0 0 0;
+				font-weight: normal;
+				}
+h5				{font-size: 13pt;
+				margin: 0 0 0 0;
+				}
+h6				{font-size: 10pt;
+				margin: 0 0 0 0;
+				}
+
+/*h1, h2, h3, h4, h5, h6
+				{font-family: Verdana, Arial, sans-serif;
+				font-weight: normal;
+				}*/
+				
+/* TABLE LAYOUTS */			
+table			{width: 100%
+				}
+table.video		{width: 560px;}
+				
+td				{vertical-align: top;
+				}
+td.a_r			{text-align: right;
+				}
+td.va_m			{vertical-align: middle;
+				}	
+td.alignC		{text-align: center;
+				vertical-align: middle;
+				}
+td.alignL		{text-align: left;
+				vertical-align: middle;
+				}
+td.alignR		{text-align: right;
+				vertical-align: middle;
+				}
+
+
+table.blocknav	{width: 100%;
+				}
+td.blocknav		{background-color: #D4D4D4;
+				color: #000000;
+				padding: 20px;
+				}
+
+
+table.news		{width: 100%;
+				border-collapse: collapse;
+				border-style: solid;
+				border-color: #D4D4D4;
+				}
+tr.news:nth-child(even) {background-color: #EEEEEE;}
+tr.news:nth-child(odd) {background-color: #DDDDDD;}
+td.news			{padding: 20px;
+				}
+h1.news			{font-family: Tahoma, Verdana, Arial, sans-serif;
+				font-weight: normal;
+				font-size: 18pt;
+				margin: 0 0 0 0;
+				}
+h2.newsDate		{font-family: Tahoma, Verdana, Arial, sans-serif;
+				font-weight: normal;
+				font-size: 10pt;
+				margin: 0 0 0 0;
+				}
+				
+/* LINKS */			
+a:link 			{color: #FF6666; 
+				text-decoration: underline;}
+a:visited 		{color: #FF6666; 
+				text-decoration: underline;}
+a:hover 		{color: #FF4444; 
+				text-decoration: underline;}
+a:active 		{color: #FF0000; 
+				text-decoration: underline;}
+
+
+/* CLASSES */
+.smalltext		{font-size: 11px;
+				}
+.compsmall		{font-size: 11px ;
+				margin: 0px 0px 20px 0px;
+				}
+.phototext		{font-size: 10px;
+				margin: 2px 0px 15px 0px;}
+.comp			{margin: 5px 0px 10px 10px;}
+.image			{margin: 5px 0px 5px 0px;}
+
+.max-download	{margin: 20px 0px;
+				padding: 4px;
+				border-style: double;
+				border-width: 3px;
+				}
+
+
+/* IDs */
+#nav		{position: relative;
+				/*left: 80px;*/
+				/*margin: auto;
+				max-width: 800;*/
+				/*top: 6px;*/		
+				font-size: 20px; 
+				color: #000000;
+				text-align: center;
+				background-color: #D4D4D4;
+				/*margin-left: 72px;*/
+				padding-top: 6px;
+				padding-bottom: 6px;
+				}
+#nav .white 				{color: #FF0000}
+		#nav a				{margin: 0px;}
+		#nav a:link 		{color: #FF4444;
+								text-decoration: none;}
+		#nav a:visited 		{color: #FF4444;
+								text-decoration: none;}
+		#nav a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		#nav a:active 		{color: #FF4444; 
+								text-decoration: none;}
+
+		#nav .wlink	a:link 		{color: #000000;
+									text-decoration: none;}
+		#nav .wlink a:visited   {color: #000000;
+									text-decoration: none;}
+		#nav .wlink a:hover 		{color: #FF4444;  
+								text-decoration: none;}
+		#nav .wlink a:active 		{color: #000000; 
+										text-decoration: none;}							
+
+
+
+
+#subnav		{position: relative;
+				/*left: 96px;*/
+				top: 5px;			
+				font-size: 14px; 
+				color: #888888;
+				text-align: center;
+				/*margin-left: 72px;*/
+				padding-top: 3px;
+				padding-bottom: 3px;
+				/*border-style: solid;*/
+				border-bottom: 1px solid #D4D4D4;
+				/*border-top: 0px;
+				border-left: 0px;
+				border-right: 0px;
+				border-color: #D4D4D4;*/
+				}
+
+		#subnav a			{margin: 0px;}
+		#subnav a:link 		{color: #FF4444;
+								text-decoration: none;}
+		#subnav a:visited 		{color: #FF4444;
+								text-decoration: none;}
+
+			/*.greylink	a:link 		{color: #FFFFFF;
+									text-decoration: none;}
+			.greylink a:visited   {color: #FFFFFF;
+									text-decoration: none;}*/
+		#subnav a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		#subnav a:active 		{color: #FF4444; 
+								text-decoration: none;}
+								
+		#subnav .wlink	a:link 		{color: #000000;
+									text-decoration: none;}
+		#subnav .wlink a:visited   {color: #000000;
+									text-decoration: none;}
+		#subnav .wlink a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		#subnav .wlink a:active 		{color: #000000; 
+										text-decoration: none;}							
+
+
+#subnavsub		{position: relative;
+				/*left: 96px;*/
+				top: 10px;			
+				font-size: 12px; 
+				color: #888888;
+				text-align: center;
+				/*margin-left: 72px;*/
+				padding-top: 3px;
+				padding-bottom: 3px;
+				/*border-style: solid;*/
+				/*border-bottom: 1px solid #D4D4D4;*/
+				/*border-top: 0px;
+				border-left: 0px;
+				border-right: 0px;
+				border-color: #D4D4D4;*/
+				}
+
+		#subnavsub a			{margin: 0px;}
+		#subnavsub a:link 		{color: #888888;
+								text-decoration: none;}
+		#subnavsub a:visited 		{color: #888888;
+								text-decoration: none;}
+
+			/*.greylink	a:link 		{color: #FFFFFF;
+									text-decoration: none;}
+			.greylink a:visited   {color: #FFFFFF;
+									text-decoration: none;}*/
+		#subnavsub a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		#subnavsub a:active 		{color: #FF4444; 
+								text-decoration: none;}
+								
+		#subnavsub .wlink	a:link 		{color: #FFFFFF;
+									text-decoration: none;}
+		#subnavsub .wlink a:visited   {color: #FFFFFF;
+									text-decoration: none;}
+		#subnavsub .wlink a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		#subnavsub .wlink a:active 		{color: #FF4444; 
+										text-decoration: none;}	
+
+
+
+
+
+.white			{color: #000000;}
+
+/*subnav whitelink*/
+							
+
+
+/*#subnavline		{position: relative;
+				left: 80px;
+				top: 60px;			
+				font-size: 14px; 
+				color: #888888;
+				}*/
+
+#subsubnav		{position: absolute;
+				left: 96px;
+				top: 66px;			
+				font-size: 9px; 
+				color: #888888;
+				}
+
+		#subsubnav a			{margin: 0px;}
+		#subsubnav a:link 		{color: #888888;
+								text-decoration: none;}
+		#subsubnav a:visited 		{color: #888888;
+								text-decoration: none;}
+		#subsubnav a:hover 		{color: #FFFFFF;  
+								text-decoration: none;}
+		#subsubnav a:active 		{color: #FFFFFF; 
+								text-decoration: none;}
+
+
+#subsubnavpdf	{position: absolute;
+				left: 493px;
+				top: 66px;			
+				font-size: 14px; 
+				color: #888888;
+				width: 200px;
+				text-align: right;
+				}				
+
+#worksnav		{position: absolute;
+				left: 93px;
+				top: 450px;			
+				font-size: 14px; 
+				color: #888888;
+				}
+
+.wnavtxt			{font-size: 18px;
+				margin: 3px 0px 4px 5px;
+	
+				}
+.wnavtxtRight	{font-size: 14px;
+				margin: 3px 0px 4px 5px;
+				text-align: right;
+				}				
+
+
+		.wnavtxt  a			{margin: 0px;}
+		.wnavtxt  a:link 		{color: #FF4444;
+								text-decoration: none;}
+		.wnavtxt  a:visited 		{color: #FF4444;
+								text-decoration: none;}
+		.wnavtxt  a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		.wnavtxt  a:active 		{color: #FF4444; 
+								text-decoration: none;}				
+
+
+.backtxt			{
+	font-size: 12px;
+	margin: 3px 0px 4px 5px;
+	vertical-align: middle;
+				}
+				
+		.backtxt  a			{margin: 0px;}
+		.backtxt  a:link 		{color: #888888;
+								text-decoration: none;}
+		.backtxt  a:visited 		{color: #888888;
+								text-decoration: none;}
+		.backtxt  a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		.backtxt  a:active 		{color: #FF4444; 
+								text-decoration: none;}
+					
+
+
+
+#ultimateweb		{position: absolute;
+				left: 92px;
+				top: 410px;
+				width: 639px;			
+				/*font-size: 18px; */
+				color: #AAAAAA;
+				}
+
+}
+.navwhite {color: #000000;}
+
+.compspacer {margin: 10px 0px;}
+.compspacersmall {margin: 2px 0px;}
+
+
+
+/*
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+*/
