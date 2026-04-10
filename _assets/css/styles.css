@@ -8,29 +8,72 @@ CSS
   --sans: "Helvetica Neue", Arial, sans-serif;
 }
 
-body {
-  font-family: var(--sans);
-  line-height: 1.6;
-  color: var(--text);
-  background-color: var(--bg);
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
+	body 	{
+	font-family: Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	/*max-width: 500px;*/
+	/*margin: auto;*/
+	margin-left: 80px; 
+	/*margin-right: 80px; */
+	width:calc(100%-120px);
+	color: #444444;
+	/*background-color: #000000;*/
+	background-attachment: scroll;
+	background-image: url(grids/images/batchelorBanner4.png);
+	background-size: 90px 714px;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
 }
 
-h1, h2, h3 {
-  font-family: var(--serif);
-  color: #111;
-  margin-top: 2rem;
-}
+/* HEADINGS */	
+h1				{font-size: 40pt;
+				margin: 0px 0px 20px 0px;
+				font-weight: normal;
+				}
+h1.composition	{margin: 0px 0px 0px 0px;}
 
-h1 {
-  font-size: 2.5rem;
-  border-bottom: 3px solid var(--accent);
-  display: inline-block;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1.5rem;
-}
+
+		h1.composition a:link 		{color: #FF4444;
+									text-decoration: none;}
+		h1.composition a:visited   {color: #FF4444;
+									text-decoration: none;}
+		h1.composition a:hover 		{color: #FF8888;  
+								text-decoration: none;}
+		h1.composition a:active 		{color: #FF4444; 
+								text-decoration: none;}		
+
+h1.ilm			{margin: 6px 0px 0px 0px;
+				font-size: 20pt;
+				}
+
+
+h2				{font-size: 24pt;
+				margin: 0 0 0 0;
+				font-weight: normal;
+				}
+
+h3				{font-size: 48pt;
+				margin: 0px 0px 0px 0px;
+				font-weight: normal;
+				}
+						
+				
+h4				{font-size: 26pt;
+				margin: 0 0 0 0;
+				font-weight: normal;
+				}
+h5				{font-size: 13pt;
+				margin: 0 0 0 0;
+				}
+h6				{font-size: 10pt;
+				margin: 0 0 0 0;
+				}
+
+/*h1, h2, h3, h4, h5, h6
+				{font-family: Verdana, Arial, sans-serif;
+				font-weight: normal;
+				}*/
 
 a {
   color: var(--accent);
