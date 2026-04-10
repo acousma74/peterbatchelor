@@ -1,0 +1,66 @@
+CSS
+/* CSS Variable for easy colour changes later */
+:root {
+  --accent: #2a9d8f; /* A sophisticated teal */
+  --bg: #fdfcfb;
+  --text: #222;
+  --serif: "Georgia", serif;
+  --sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-family: var(--sans);
+  line-height: 1.6;
+  color: var(--text);
+  background-color: var(--bg);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  color: #111;
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid var(--accent);
+  display: inline-block;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style for your Blog Posts */
+article {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+/* Style for your 'Grids' project folder images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #666;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+}
