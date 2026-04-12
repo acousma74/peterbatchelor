@@ -1,15 +1,34 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>My Blog</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
+  <title>Peter Batchelor -- {{ page.title }}</title>
+  
+  <link href="{{ site.baseurl }}/assets/css/peteStyles.css" rel="stylesheet" type="text/css" />
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="author" content="Peter Batchelor" />
+  <meta name="Description" content="Peter Batchelor (Composer/Sound Designer)" />
 </head>
+
 <body>
-    <nav> </nav>
 
-    <main>
-        {{ content }} </main>
+<div id="batchelor">
+  <h1>Peter Batchelor: composer, sound designer</h1>
+</div>
 
-    <footer> </footer>
+<div id="nav"> 
+  <a href="{{ site.baseurl }}/index.html">NEWS</a> &bull; 
+  <a href="{{ site.baseurl }}/bio.html">PROFILE</a> &bull; 
+  <a href="{{ site.baseurl }}/projects.html">PROJECTS</a> &bull; 
+  <a href="{{ site.baseurl }}/words.html">WORDS</a> &bull; 
+  <a href="{{ site.baseurl }}/software.html">SOFTWARE</a> &bull; 
+  <a href="{{ site.baseurl }}/tutorials.html">TUTORIALS</a> &bull; 
+  <a href="{{ site.baseurl }}/contact.html">CONTACT</a> 
+</div>
+
+<div id="contents"> 
+  {{ content }}
+</div>
+
 </body>
 </html>

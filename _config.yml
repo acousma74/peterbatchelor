@@ -1,0 +1,39 @@
+# Site Settings
+title: Peter Batchelor
+email: your-email@example.com # Optional
+description: >- # This is a multi-line description
+  Peter Batchelor: composer, sound designer. 
+  Music Technology at De Montfort University.
+
+# URL Settings
+# When testing locally, this is usually empty. 
+# When on GitHub, this is your repository name (e.g., /my-site)
+url: "https://acousma74.github.io"
+baseurl: "/peterbatchelor"
+
+# Build Settings
+markdown: kramdown
+theme: minima # You can keep this or leave it blank since we are using custom CSS
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+# This ensures that if you create a post, it follows a clean structure
+permalink: /:title.html
+
+# Collections (For your future blog/news)
+collections:
+  posts:
+    output: true
+    permalink: /news/:title.html
+
+# Exclude these files from being compiled
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

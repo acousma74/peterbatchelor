@@ -414,3 +414,19 @@ div.desc {
     text-align: center;
 }
 */
+/* Simplified logic for a dropdown effect */
+#nav a { display: inline-block; position: relative; }
+
+/* Hide sub-menus by default */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #000;
+  min-width: 160px;
+  z-index: 1;
+}
+
+/* Show them on hover */
+#nav a:hover .dropdown-content {
+  display: block;
+}
