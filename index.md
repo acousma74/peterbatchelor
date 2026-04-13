@@ -28,7 +28,6 @@ permalink: /index.html
           <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
         </div>
 
-      <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
     </td>
   </tr>
   {% endfor %}
