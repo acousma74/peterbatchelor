@@ -15,6 +15,12 @@ permalink: /index.html
         {{ post.excerpt }}
       </div>
       
+        {% if post.image %}
+        <div class="news-thumb" style="flex: 0 0 200px;">
+          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" style="width: 100%; border: 1px solid #555;" />
+        </div>
+        {% endif %}
+
       <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
     </td>
   </tr>
