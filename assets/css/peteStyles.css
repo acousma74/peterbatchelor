@@ -1,4 +1,23 @@
-/* Updated Navigation and Dropdown Logic */
+/* CSS Document */
+	body 	{
+	font-family: Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	/*max-width: 500px;*/
+	/*margin: auto;*/
+	margin-left: 80px; 
+	/*margin-right: 80px; */
+	width:calc(100%-120px);
+	color: #444444;
+	/*background-color: #000000;*/
+	background-attachment: scroll;
+	background-image: url(../images/batchelorBanner4.png);
+	background-size: 90px 714px;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+
 #nav {
     position: relative;
     font-size: 20px; 
