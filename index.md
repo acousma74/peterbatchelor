@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /index.html
 ---
-
+<h1>news</h1>
 <table class="news">
   {% for post in site.posts %}
   <tr class="news">
@@ -16,10 +16,17 @@ permalink: /index.html
       </div>
       
         {% if post.image %}
-        <div class="news-thumb" style="flex: 0 0 200px;">
-          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" style="width: 100%; border: 1px solid #555;" />
+        <div class="news-image-window">
+          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="{{ post.title }}">
         </div>
         {% endif %}
+
+        <div class="news-text-content">
+          <div class="news-summary">
+            {{ post.excerpt }}
+          </div>
+          <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+        </div>
 
       <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
     </td>
