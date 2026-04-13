@@ -17,7 +17,28 @@
 	background-position: 0px 0px;
 }
 
+/* Make Batchelor 'title' text invisible. */
+#batchelor		{ position: absolute;
+				left: 700px;
+				top: 40px;
+				color: #ffffff00;
+				font-size: 8px;
+				}
+#batchelor h1 {font-size: 6px;}
 
+/* For main contents. */
+#contents		{position: relative;
+				/*margin-left: 97px;*/
+				
+				/*width: 639px;*/
+				max-width: 800px;
+				margin: auto;	
+				top: 70px;		
+				/*font-size: 18px; */
+				color: #666666;
+				}
+
+/* For navigation. */
 #nav {
     position: relative;
     font-size: 20px; 
