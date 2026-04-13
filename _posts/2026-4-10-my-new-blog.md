@@ -1,12 +1,8 @@
 ---
 layout: default
-title: "A New Project"
+title: "Designing a Distributed Playback Engine in Pure Data"
 ---
-# Designing a Distributed Playback Engine in Pure Data
-
-In previous posts, I described the overall architecture and deployment of the Chamberlain Clock Tower installation: a distributed network of Raspberry Pis, each responsible for local playback within a campus-wide multichannel sound work.
-
-This post focuses on the software layer that made this possible: a custom-built Pure Data patch, deployed identically across all devices, and designed to handle timing, control, and multichannel playback in a flexible and resilient way.
+In previous posts, I described the overall architecture and deployment of the Chamberlain Clock Tower installation: a distributed network of Raspberry Pis, each responsible for local playback within a campus-wide multichannel sound work. This post focuses on the software layer that made this possible: a custom-built Pure Data patch, deployed identically across all devices, and designed to handle timing, control, and multichannel playback in a flexible and resilient way.
 
 ----------
 

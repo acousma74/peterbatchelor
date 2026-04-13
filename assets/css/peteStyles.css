@@ -92,3 +92,24 @@
 #nav .white {
     color: #000000;
 }
+
+/* For 'news'(blog) page */
+table.news		{width: 100%;
+				border-collapse: collapse;
+				border-style: solid;
+				border-color: #D4D4D4;
+				}
+tr.news:nth-child(even) {background-color: #EEEEEE;}
+tr.news:nth-child(odd) {background-color: #DDDDDD;}
+td.news			{padding: 20px;
+				}
+h1.news			{font-family: Tahoma, Verdana, Arial, sans-serif;
+				font-weight: normal;
+				font-size: 18pt;
+				margin: 0 0 0 0;
+				}
+h2.newsDate		{font-family: Tahoma, Verdana, Arial, sans-serif;
+				font-weight: normal;
+				font-size: 10pt;
+				margin: 0 0 0 0;
+				}
