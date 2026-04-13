@@ -11,13 +11,11 @@ permalink: /index.html
       <h1 class="news">{{ post.title }}</h1>
       <h2 class="newsDate">{{ post.date | date: "%d.%m.%y" }}</h2>
       
-      {{ post.content }}
+      <div class="news-summary">
+        {{ post.excerpt }}
+      </div>
       
-      {% if post.image %}
-      <p align="center">
-        <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="{{ post.title }}" />
-      </p>
-      {% endif %}
+      <p><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
     </td>
   </tr>
   {% endfor %}
