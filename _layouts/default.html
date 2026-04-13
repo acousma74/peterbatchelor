@@ -2,9 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>Peter Batchelor -- {{ page.title }}</title>
-  
   <link href="{{ site.baseurl }}/assets/css/peteStyles.css" rel="stylesheet" type="text/css" />
-  
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <meta name="author" content="Peter Batchelor" />
   <meta name="Description" content="Peter Batchelor (Composer/Sound Designer)" />
@@ -18,8 +16,27 @@
 
 <div id="nav"> 
   <a href="{{ site.baseurl }}/index.html">NEWS</a> &bull; 
-  <a href="{{ site.baseurl }}/bio.html">PROFILE</a> &bull; 
-  <a href="{{ site.baseurl }}/projects.html">PROJECTS</a> &bull; 
+  
+  <span class="dropdown">
+    <a href="{{ site.baseurl }}/bio.html">PROFILE</a>
+    <div class="dropdown-content">
+      <a href="{{ site.baseurl }}/bio.html">bio</a>
+      <a href="{{ site.baseurl }}/pics.html">pics</a>
+      <a href="{{ site.baseurl }}/cv.html">cv</a>
+      <a href="{{ site.baseurl }}/recognition.html">recognition</a>
+    </div>
+  </span> &bull; 
+
+  <span class="dropdown">
+    <a href="{{ site.baseurl }}/projects.html">PROJECTS</a>
+    <div class="dropdown-content">
+      <a href="{{ site.baseurl }}/grids.html">GRIDs</a>
+      <a href="{{ site.baseurl }}/kaleidoscope.html">kaleidoscope</a>
+      <a href="{{ site.baseurl }}/reflections.html">reflections</a>
+      <a href="{{ site.baseurl }}/other.html">other</a>
+    </div>
+  </span> &bull; 
+
   <a href="{{ site.baseurl }}/words.html">WORDS</a> &bull; 
   <a href="{{ site.baseurl }}/software.html">SOFTWARE</a> &bull; 
   <a href="{{ site.baseurl }}/tutorials.html">TUTORIALS</a> &bull; 
