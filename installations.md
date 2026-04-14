@@ -7,24 +7,6 @@ permalink: /installations.html
 <h1 class="composition">installations</h1>
 <p class="compsmall">a series of massively multichannel installation works</p>
 
-<img src="{{ site.baseurl }}/assets/images/line.jpg" alt="line" width="800" height="1" />
-
-<table>
-  <tr>
-    <td> 
-      <p class="wnavtxt">
-        <span class="white">INSTALLATIONS</span> &bull; 
-        <a href="{{ site.baseurl }}/gridsResearch.html">RESEARCH</a> &bull; 
-        <a href="{{ site.baseurl }}/gridsWriting.html">WRITING</a>
-      </p>
-    </td>
-  </tr>   
-</table>    
-
-<img src="{{ site.baseurl }}/assets/images/line.jpg" alt="line" width="800" height="1" /> 
-<div class="compspacer">&nbsp;</div> 
-
-<p align="left"><em>GRIDs</em> is a series of sound sculptures involving large arrays of many (in some cases hundreds of) loudspeakers. Arranged geometrically, these permit the generation of extremely intricate spatial sound environments that encourage ambulatory investigation and scrutiny.</p>
 
 <table class="news">
    <tr class="news">
