@@ -67,7 +67,29 @@ permalink: /installations.html
     </td>
 
   </tr>
+  
    <tr class="news">
+       <td><a href="{{ site.baseurl }}/cluster.html"><img src="{{ site.baseurl }}/assets/images/Cluster/clusterThumb.jpg" width="120" height="120" alt="Old Joe Sound Sculpture"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/cluster.html"><strong>Cluster</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(2011) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        a cuboid-shaped suspended walk-through array, and thus departs from the surface-based configuration of the other setups. As such, the listener is enveloped by the sound, but can navigate it, investigating zones of activity along with individual speakers as point sources.
+      </td></tr></table>
+    </td>
+</tr>
+
+   <tr class="news">
+       <td><a href="{{ site.baseurl }}/canvas.html"><img src="{{ site.baseurl }}/assets/images/Canvas/canvasThumb.jpg" width="120" height="120" alt="Canvas"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/canvas.html"><strong>Studies on Canvas</strong></a></em> <br/>><span class="smalltext">(2004) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        a flat-panel array of loudspeakers behind a blank canvas. The work is designed to be viewed like a conventional painting, with the speaker-space ‘framed’ by the boundaries of the canvas, and presents 'pictures' in sound which listeners are encouraged to explore—standing back to reveal the entire image, looking more closely to experience the inner detail.
+      </td></tr></table>
+    </td>
+ 
+</tr>
+
+ <tr class="news">
        <td><a href="{{ site.baseurl }}/ojss.html"><img src="{{ site.baseurl }}/assets/images/ojss/ojssThumb.jpg" width="120" height="120" alt="Old Joe Sound Sculpture"/></a></td>
     <td>
       <em><a href="{{ site.baseurl }}/c125.html"><strong>Old Joe Sound Sculpture</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(2026) </span>
@@ -77,8 +99,5 @@ permalink: /installations.html
     </td>
  
 </tr>
-
-
-
  
 </table>
