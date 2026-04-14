@@ -21,7 +21,7 @@ permalink: /installations.html
    <tr class="news">
     <td><a href="{{ site.baseurl }}/dendrophone.html"><img src="{{ site.baseurl }}/assets/images/Dendrophone/dendrophoneThumb.jpg" width="120" height="120" alt="Dendrophone"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/dendrophone.html"><strong>Dendrophone</strong></a></em> &<br/><span class="smalltext">(part of the Sensing the Forest project, 2024) </span>
+      <em><a href="{{ site.baseurl }}/dendrophone.html"><strong>Dendrophone</strong></a></em><br/><span class="smalltext">(part of the Sensing the Forest project, 2024) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
         16 channel autonomous solar-powered installation, distributed between trees in Alice Holt Forest, Surrey. Sonifies real-time environmental sensor through algorithmic mapping to sound parameters.
       </td></tr></table>
@@ -30,7 +30,7 @@ permalink: /installations.html
    <tr class="news">
     <td><a href="{{ site.baseurl }}/contraption.html"><img src="{{ site.baseurl }}/assets/images/Contraption/contraptionThumb.png" width="120" height="120" alt="Contraption"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2020) </span>
+      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em><br/><span class="smalltext">(a collaboration with Ian Bilson, 2020) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
         involves five cylindrical columns, each containing 64 speakers. Sounds travel along, around and between these columns such that detailed, playful 'mechanical' generation/propagation occurs.
       </td></tr></table>
@@ -39,7 +39,7 @@ permalink: /installations.html
     <tr class="news">
     <td><a href="{{ site.baseurl }}/orbits.html"><img src="{{ site.baseurl }}/assets/images/Orbits/orbitsThumb.png" width="120" height="120" alt="Orbits"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/orbits.html"><strong>Orbits</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Mike Blow, 2019) </span>
+      <em><a href="{{ site.baseurl }}/orbits.html"><strong>Orbits</strong></a></em> <br/><span class="smalltext">(a collaboration with Mike Blow, 2019) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
         involves six speakers mounted on the ends of tilted spinning arms. Combines sounds derived from Philharmonia instruments with NASA space sounds, considering orbital motions from the atomic to the cosmic.
       </td></tr></table>
@@ -59,7 +59,7 @@ permalink: /installations.html
   <tr class="news">
     <td><a href="{{ site.baseurl }}/beyond.html"><img src="{{ site.baseurl }}/assets/images/Beyond/beyondThumb.png" width="120" height="120" alt="Beyond"/></a></td>   
     <td>
-      <em><a href="{{ site.baseurl }}/beyond.html"><strong>Beyond</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2014-15) </span>
+      <em><a href="{{ site.baseurl }}/beyond.html"><strong>Beyond</strong></a></em> <br/><span class="smalltext">(a collaboration with Ian Bilson, 2014-15) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
         Speakers are placed in the vertices between the triangular panels of geodesic sphere structures. The structures are acoustically transparent, and the installation is conceived such that listeners experience the soundscape beyond the playing loudspeakers as an extension of that presented by the installation itself.<br />
         <span class="smalltext"><em>Beyond</em> was preceded by the similar, hemispheric <em><strong><a href="{{ site.baseurl }}/dome.html">DOME</a></strong></em> (2012) installation.</span>
@@ -71,7 +71,7 @@ permalink: /installations.html
    <tr class="news">
        <td><a href="{{ site.baseurl }}/cluster.html"><img src="{{ site.baseurl }}/assets/images/Cluster/clusterThumb.jpg" width="120" height="120" alt="Old Joe Sound Sculpture"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/cluster.html"><strong>Cluster</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(2011) </span>
+      <em><a href="{{ site.baseurl }}/cluster.html"><strong>Cluster</strong></a></em> <br/><span class="smalltext">(2011) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
         a cuboid-shaped suspended walk-through array, and thus departs from the surface-based configuration of the other setups. As such, the listener is enveloped by the sound, but can navigate it, investigating zones of activity along with individual speakers as point sources.
       </td></tr></table>
