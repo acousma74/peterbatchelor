@@ -7,10 +7,8 @@ title: Biography
 
 <img src="{{ site.baseurl }}/assets/images/peter-batchelor.jpg" style="float: right; margin: 0 0 0 10px; width: 300px; height: 400px;">
 
-Peter Batchelor is a composer and sound artist living in Birmingham, UK. He has studied with [Jonty Harrison](https://www.birmingham.ac.uk/staff/profiles/music/harrison-jonty){:target="_blank"} and [Andrew Lewis](https://www.andrewlewis.org.uk/){:target="_blank"} and is currently a lecturer at [De Montfort University](http://www.mti.dmu.ac.uk/){:target="_blank"}, Leicester.
+Peter Batchelor is a composer and sound artist living in Birmingham, UK. He is currently a Senior Lecturer in music and music technology at De Montfort Univesity, Leicester  where he is Programme Leader of the BA Music Technology programme and a member of the Music, Technology and Innovation Research Group within the Institute of Arts, Design & Performance.  
 
-His music draws strongly on the aesthetics and compositional concerns of the acousmatic tradition, but uses this heritage as a springboard to investigate a variety of other genres and presentation formats for electroacoustic media including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. More recently his interest has shifted towards site-specific public (sound) art, including the fabrication of aural landscapes and sonic illusion (trompe l’oreille).
+His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
 
-His work has received recognition from such sources as the Concours de musique electroacoustique de Bourges and the International ElectroAcoustic Music Contest of São Paulo and has been presented internationally.
-
-(Image credit: David Prior, 2018)
+He has studied with [Jonty Harrison](https://www.birmingham.ac.uk/staff/profiles/music/harrison-jonty){:target="_blank"} and [Andrew Lewis](https://www.andrewlewis.org.uk/){:target="_blank"} and is currently a lecturer at [De Montfort University](http://www.mti.dmu.ac.uk/){:target="_blank"}, Leicester. His work has received recognition from such sources as the Concours de musique electroacoustique de Bourges and the International ElectroAcoustic Music Contest of São Paulo and has been presented/performed internationally.
