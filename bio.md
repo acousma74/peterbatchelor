@@ -3,6 +3,8 @@ layout: default
 title: Biography
 ---
 
+#bio
+
 <img src="{{ site.baseurl }}/assets/images/peter-batchelor.jpg" style="float: right; margin: 0; width: 300px; height: 400px;">
 
 This is the start of my biography. Because the image above has "float: left" applied to it, all of this text will wrap around the right-hand side of the image automatically.
