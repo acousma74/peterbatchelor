@@ -3,7 +3,7 @@ layout: default
 title: Biography
 ---
 
-#bio
+<h1>bio</h1>
 
 <img src="{{ site.baseurl }}/assets/images/peter-batchelor.jpg" style="float: left; margin: 0; width: 300px; height: 400px;">
 
