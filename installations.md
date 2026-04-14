@@ -28,7 +28,7 @@ permalink: /installations.html
 
 <table class="news">
    <tr class="news">
-       <td><a href="{{ site.baseurl }}/c125.html"><img src="{{ site.baseurl }}/assets/images/c125/c125Thumb.png" width="120" height="120" alt="Chamberlain Clocktower Sonic Intervention"/></a></td>
+       <td><a href="{{ site.baseurl }}/c125.html"><img src="{{ site.baseurl }}/assets/images/c125/c125Thumb.jpg" width="120" height="120" alt="Chamberlain Clocktower Sonic Intervention"/></a></td>
     <td>
       <em><a href="{{ site.baseurl }}/c125.html"><strong>Chamberlain Clocktower Sonic Intervention</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(in collaboration with the Birmingham ElectroAcoustic Sound Theatre, 2026) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
@@ -84,7 +84,14 @@ permalink: /installations.html
     </td>
 
   </tr>
-
+   <tr class="news">
+       <td><a href="{{ site.baseurl }}/ojss.html"><img src="{{ site.baseurl }}/assets/images/ojss/ojssThumb.jpg" width="120" height="120" alt="Old Joe Sound Sculpture"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/c125.html"><strong>Old Joe Sound Sculpture</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(2026) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        4 channel public sound installation complementing the quarter-hourly chimes at the Chamberlain Clock Tower, Unviersity of Birmingham.
+      </td></tr></table>
+    </td>
  
 
 
