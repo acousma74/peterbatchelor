@@ -27,6 +27,52 @@ permalink: /installations.html
 <p align="left"><em>GRIDs</em> is a series of sound sculptures involving large arrays of many (in some cases hundreds of) loudspeakers. Arranged geometrically, these permit the generation of extremely intricate spatial sound environments that encourage ambulatory investigation and scrutiny.</p>
 
 <table class="news">
+   <tr class="news">
+       <td><a href="{{ site.baseurl }}/c125.html"><img src="{{ site.baseurl }}/assets/images/c125/c125Thumb.png" width="120" height="120" alt="Chamberlain Clocktower Sonic Intervention"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/c125.html"><strong>Chamberlain Clocktower Sonic Intervention</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(in collaboration with the Birmingham ElectroAcoustic Sound Theatre, 2026) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        12 channel widely distributed sound installation across the University of Birmingham Campus, commissioned for the University's 125th anniversary celebrations.
+      </td></tr></table>
+    </td>
+	</tr>
+    <td><a href="{{ site.baseurl }}/dendrophone.html"><img src="{{ site.baseurl }}/assets/images/Dendrophone/dendrophoneThumb.png" width="120" height="120" alt="Dendrophone"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(part of the Sensing the Forest project, 2024) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        16 channel autonomous solar-powered installation, distributed between trees in Alice Holt Forest, Surrey. Sonifies real-time environmental sensor through algorithmic mapping to sound parameters.
+      </td></tr></table>
+    </td>
+	</tr>
+   <tr class="news">
+    <td><a href="{{ site.baseurl }}/contraption.html"><img src="{{ site.baseurl }}/assets/images/Contraption/contraptionThumb.png" width="120" height="120" alt="Contraption"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2020) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
+        involves five cylindrical columns, each containing 64 speakers. Sounds travel along, around and between these columns such that detailed, playful 'mechanical' generation/propagation occurs.
+      </td></tr></table>
+    </td>
+  </tr>   
+    <tr class="news">
+    <td><a href="{{ site.baseurl }}/orbits.html"><img src="{{ site.baseurl }}/assets/images/Orbits/orbitsThumb.png" width="120" height="120" alt="Orbits"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/orbits.html"><strong>Orbits</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Mike Blow, 2019) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
+        involves six speakers mounted on the ends of tilted spinning arms. Combines sounds derived from Philharmonia instruments with NASA space sounds, considering orbital motions from the atomic to the cosmic.
+      </td></tr></table>
+    </td>
+	  </tr>
+
+ <tr class="news">
+    <td><a href="{{ site.baseurl }}/cascade.html"><img src="{{ site.baseurl }}/assets/images/Cascade/cascadeThumb.png" width="120" height="120" alt="Cascade"/></a></td>
+    <td>
+      <em><a href="{{ site.baseurl }}/cascade.html"><strong>Cascade</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2018) </span>
+      <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
+        presents a flat-panel array of loudspeakers suspended above the listener. It is conceived to operate as a portal to an external (fictional) sonic ‘reality’.<br />
+        <span class="smalltext"><em>Cascade</em> was preceded by the similarly flat-panel Studies on Canvas (2004) installation.</span>
+      </td></tr></table>
+    </td>
+  </tr>   	
   <tr class="news">
     <td><a href="{{ site.baseurl }}/beyond.html"><img src="{{ site.baseurl }}/assets/images/Beyond/beyondThumb.png" width="120" height="120" alt="Beyond"/></a></td>   
     <td>
@@ -36,38 +82,15 @@ permalink: /installations.html
         <span class="smalltext"><em>Beyond</em> was preceded by the similar, hemispheric <em><strong><a href="{{ site.baseurl }}/dome.html">DOME</a></strong></em> (2012) installation.</span>
       </td></tr></table>
     </td>
+
   </tr>
 
-  <tr class="news">
-    <td><a href="{{ site.baseurl }}/cascade.html"><img src="{{ site.baseurl }}/assets/images/Cascade/cascadeThumb.png" width="120" height="120" alt="Cascade"/></a></td>
-    <td>
-      <em><a href="{{ site.baseurl }}/cascade.html"><strong>Cascade</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2018) </span>
-      <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
-        presents a flat-panel array of loudspeakers suspended above the listener. It is conceived to operate as a portal to an external (fictional) sonic ‘reality’.<br />
-        <span class="smalltext"><em>Cascade</em> was preceded by the similarly flat-panel Studies on Canvas (2004) installation.</span>
-      </td></tr></table>
-    </td>
-  </tr>   
+ 
 
-  <tr class="news">
-    <td><a href="{{ site.baseurl }}/orbits.html"><img src="{{ site.baseurl }}/assets/images/Orbits/orbitsThumb.png" width="120" height="120" alt="Orbits"/></a></td>
-    <td>
-      <em><a href="{{ site.baseurl }}/orbits.html"><strong>Orbits</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Mike Blow, 2019) </span>
-      <table border="0"><tr><td>&nbsp;&nbsp;</td><td>
-        involves six speakers mounted on the ends of tilted spinning arms. Combines sounds derived from Philharmonia instruments with NASA space sounds, considering orbital motions from the atomic to the cosmic.
-      </td></tr></table>
-    </td>
-  </tr>
 
-  <tr class="news">
-    <td><a href="{{ site.baseurl }}/contraption.html"><img src="{{ site.baseurl }}/assets/images/Contraption/contraptionThumb.png" width="120" height="120" alt="Contraption"/></a></td>
-    <td>
-      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(a collaboration with Ian Bilson, 2020) </span>
-      <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
-        involves five cylindrical columns, each containing 64 speakers. Sounds travel along, around and between these columns such that detailed, playful 'mechanical' generation/propagation occurs.
-      </td></tr></table>
-    </td>
-  </tr>   
+
+
+ 
 </table>
 
 <h2><em>RESEARCH QUESTIONS</em></h2>
