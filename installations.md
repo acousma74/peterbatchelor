@@ -12,7 +12,7 @@ permalink: /installations.html
    <tr class="news">
        <td><a href="{{ site.baseurl }}/c125.html"><img src="{{ site.baseurl }}/assets/images/c125/c125Thumb.jpg" width="120" height="120" alt="Chamberlain Clocktower Sonic Intervention"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/c125.html"><strong>Chamberlain Clocktower Sonic Intervention</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(in collaboration with the Birmingham ElectroAcoustic Sound Theatre, 2026) </span>
+      <em><a href="{{ site.baseurl }}/c125.html"><strong>Chamberlain Clocktower Sonic Intervention</strong></a></em> <br/><span class="smalltext">(in collaboration with the Birmingham ElectroAcoustic Sound Theatre, 2026) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
         12 channel widely distributed sound installation across the University of Birmingham Campus, commissioned for the University's 125th anniversary celebrations.
       </td></tr></table>
@@ -81,17 +81,3 @@ permalink: /installations.html
 
  
 </table>
-
-<h2><em>RESEARCH QUESTIONS</em></h2>
-<p><em>How can dense geometric multichannel configurations be used to make high-quality, detailed spatial sound environments?</em></p>
-<p><em>How can such extreme multichannel arrangements be developed and managed in an affordable way?</em></p>
-<p><em>What new acousmatic compositional possibilities are afforded by such multichannel arrangements in conjunction with non-standard presentation strategies?</em><br />
-<span class="smalltext">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- spherical arrangement; individualised experience (Beyond) <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- flat panel ceiling arrangement; ambulatory exploration (Cascade) <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- rotational speaker movement; ambulatory exploration (Orbits) <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- multiple cluster speaker arrangements; ambulatory/interactive exploration (Contraption)
-</span></p>
-<p><em>How can a listening experience be made more intimate through the exploration of multichannel environments?</em></p>
-<p><em>How can an acousmatic experience be made to encourage closer listening to the wider environment?</em></p>
-<p><em>How can acousmatic composition be made to reach a wider audience?</em></p>
