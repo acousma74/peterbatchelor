@@ -5,7 +5,7 @@ title: Biography
 
 <h1>bio</h1>
 
-<img src="{{ site.baseurl }}/assets/images/peter-batchelor.jpg" style="float: left; margin: 0; width: 300px; height: 400px;">
+<img src="{{ site.baseurl }}/assets/images/peter-batchelor.jpg" style="float: left; margin: 0 20px 0 0; width: 300px; height: 400px;">
 
 Peter Batchelor is a composer and sound artist living in Birmingham, UK. He has studied with [Jonty Harrison](http://artsweb.bham.ac.uk/harrison/){:target="_blank"} and [Andrew Lewis](http://www.bangor.ac.uk/music/AndyHome.html){:target="_blank"} and is currently a lecturer at [De Montfort University](http://www.mti.dmu.ac.uk/){:target="_blank"}, Leicester.
 
