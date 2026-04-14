@@ -18,9 +18,10 @@ permalink: /installations.html
       </td></tr></table>
     </td>
 	</tr>
-    <td><a href="{{ site.baseurl }}/dendrophone.html"><img src="{{ site.baseurl }}/assets/images/Dendrophone/dendrophoneThumb.png" width="120" height="120" alt="Dendrophone"/></a></td>
+   <tr class="news">
+    <td><a href="{{ site.baseurl }}/dendrophone.html"><img src="{{ site.baseurl }}/assets/images/Dendrophone/dendrophoneThumb.jpg" width="120" height="120" alt="Dendrophone"/></a></td>
     <td>
-      <em><a href="{{ site.baseurl }}/contraption.html"><strong>Contraption</strong></a></em> &nbsp;&nbsp;<span class="smalltext">(part of the Sensing the Forest project, 2024) </span>
+      <em><a href="{{ site.baseurl }}/dendrophone.html"><strong>Dendrophone</strong></a></em> &<br/><span class="smalltext">(part of the Sensing the Forest project, 2024) </span>
       <table border="0"><tr><td>&nbsp;&nbsp;</td><td> 
         16 channel autonomous solar-powered installation, distributed between trees in Alice Holt Forest, Surrey. Sonifies real-time environmental sensor through algorithmic mapping to sound parameters.
       </td></tr></table>
@@ -75,7 +76,7 @@ permalink: /installations.html
       </td></tr></table>
     </td>
  
-
+</tr>
 
 
 
