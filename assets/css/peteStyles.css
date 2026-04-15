@@ -202,12 +202,12 @@ a:active 		{color: #FF0000;
 }
 
 /* For 'news'(blog) page */
-table.news		{width: 100%;
-				border-collapse: collapse;
-				border-style: solid;
-				border-color: #848484;
-				border-width: 1px;
-				}
+table.news {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #848484; /* Sets width, style, and colour all at once */
+}
+
 tr.news:nth-child(even) {background-color: #EEEEEE;}
 tr.news:nth-child(odd) {background-color: #DDDDDD;}
 td.news			{padding: 20px;
