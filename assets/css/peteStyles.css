@@ -20,7 +20,7 @@
 /* Container to position the banner on your page */
 .banner-container {
   display: flex;
-  height: 100vh; /* Adjust height as needed */
+  height: 50vh; /* Adjust height as needed */
   width: fit-content;
   padding: 20px;
 }
