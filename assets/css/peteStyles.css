@@ -17,6 +17,38 @@
 	background-position: 0px 0px;
 }
 
+/* Container to position the banner on your page */
+.banner-container {
+  display: flex;
+  height: 100vh; /* Adjust height as needed */
+  width: fit-content;
+  padding: 20px;
+}
+
+.vertical-text {
+  /* Vertical orientation */
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  transform: rotate(180deg); /* Flips text so it reads bottom-to-top */
+  
+  /* Font styling */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 80px; /* Adjust size to fit your design */
+  font-weight: 300;
+  letter-spacing: -2px;
+  
+  /* The Gradient Effect */
+  background: linear-gradient(to bottom, #000000 0%, #000000 30%, #e0e0e0 80%, #ffffff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  /* The "Underline" (Vertical line on the right) */
+  border-left: 2px solid #333; /* Appears on the right due to the rotation */
+  padding-left: 15px;
+}
+
+
+
 /* HEADINGS */	
 h1				{font-size: 36pt;
 				margin: 0px 0px 20px 0px;
