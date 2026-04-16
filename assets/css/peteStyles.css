@@ -167,7 +167,7 @@ a:active 		{color: #FF0000;
     margin: 0 auto; 
     
     /* 3. Padding to ensure text doesn't hit the vertical banner on the left */
-    padding-left: 100px; 
+    padding-left: 40px; 
     box-sizing: border-box; /* Ensures padding doesn't break the width calculation */
 }
 
@@ -178,7 +178,7 @@ a:active 		{color: #FF0000;
     padding-left: 100px; 
     justify-content: center;
     align-items: stretch; /* makes children full height */
-    width: 100%;
+    width: 40%;
     font-size: 20px;
     background-color: #888888;
     height: 50px; /* controls overall nav height */
