@@ -39,21 +39,21 @@
   transform-origin: center; /* Ensures it rotates in place */
 
   /* 3. Font styling */
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue Thin', Helvetica, Arial, sans-serif;
   font-size: 80px; 
   font-weight: 300;
   letter-spacing: -2px;
   line-height: 1; /* Keeps the bounding box tight to the letters */
   
   /* 4. The Gradient Effect */
-  background: linear-gradient(to bottom, #000000 0%, #e0e0e0 50%, #ffffff 100%);
+  background: linear-gradient(to bottom, #000000 0%, #cccccc 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-  /* The "Underline" (Vertical line on the right) */
-  /* border-left: 2px solid #333; /* Appears on the right due to the rotation */
-  /* padding-left: 15px;*/
 
+  /* The "Underline" (Vertical line on the right) */
+  border-left: 2px solid #333; /* Appears on the right due to the rotation */
+  padding-left: 15px;
+}
 
 
 
