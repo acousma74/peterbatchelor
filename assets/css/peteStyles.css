@@ -175,6 +175,7 @@ a:active 		{color: #FF0000;
 #nav {
     position: relative;
     display: flex;
+    padding-left: 100px; 
     justify-content: center;
     align-items: stretch; /* makes children full height */
     width: 100%;
