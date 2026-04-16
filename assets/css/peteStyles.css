@@ -174,52 +174,82 @@ a:active 		{color: #FF0000;
 /* For navigation. */
 #nav {
     position: relative;
-    width: 100%; /* Changed from 100vw to 100% to prevent horizontal scroll issues */
-    font-size: 20px; 
-    color: #000000;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: stretch; /* makes children full height */
+    width: 100%;
+    font-size: 20px;
     background-color: #888888;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    z-index: -1;
+    height: 50px; /* controls overall nav height */
 }
 
+/* Top-level nav items */
+#nav > a,
+#nav > .dropdown {
+    display: flex;
+    align-items: center; /* vertical centring */
+    padding: 0 18px;
+    border-left: 1px solid #ffffff;
+}
+
+/* Remove border from last item */
+#nav > a:last-child,
+#nav > .dropdown:last-child {
+    border-right: 1px solid #ffffff;
+}
+
+/* Links */
 #nav a {
-    color: #FF4444;
+    color: #ffffff;
     text-decoration: none;
 }
 
 #nav a:hover {
-    color: #FF8888;
+    color: #ff8888;
 }
 
+/* Dropdown container */
 .dropdown {
-    display: inline-block;
     position: relative;
 }
 
+/* Ensure dropdown parent link fills height */
+.dropdown > a {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+/* Dropdown menu */
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #D4D4D4; /* Matches the main nav bar */
-    min-width: 140px;
-    text-align: left;
-    padding: 10px;
-    top: 100%; /* Positions it directly under the nav bar */
+    top: 100%;
     left: 0;
-    border: 1px solid #AAAAAA;
-    z-index: 1001;
+    background-color: #aaaaaa;
+    min-width: 200px;
+    padding: 8px 0;
+    border: 1px solid #888888;
 }
 
+/* Dropdown links */
 .dropdown-content a {
     display: block;
     font-size: 14px;
-    padding: 5px 0;
+    padding: 6px 12px;
     margin: 0;
+    color: #000000;
 }
 
+/* Dropdown hover behaviour */
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+/* Optional: hover background for clarity */
+#nav > a:hover,
+#nav > .dropdown:hover {
+    background-color: #777777;
 }
 
 /* Specific highlight for the current section if needed */
