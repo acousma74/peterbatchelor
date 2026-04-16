@@ -20,7 +20,7 @@ body {
 .vertical-text {
   /* 1. Positioning to the extreme top-left */
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 0;
   margin: 0;
 
