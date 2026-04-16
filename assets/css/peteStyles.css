@@ -20,28 +20,36 @@
 /* Container to position the banner on your page */
 .banner-container {
   display: flex;
-  height: 70vh; /* Adjust height as needed */
+  height: fit-content; /* Adjust height as needed */
   width: fit-content;
-  padding: 20px;
+  padding: 0px;
 }
 
 .vertical-text {
-  /* Vertical orientation */
+  /* 1. Positioning to the extreme top-left */
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+
+  /* 2. Orientation */
   writing-mode: vertical-rl;
   text-orientation: mixed;
-  transform: rotate(180deg); /* Flips text so it reads bottom-to-top */
-  
-  /* Font styling */
+  transform: rotate(180deg);
+  transform-origin: center; /* Ensures it rotates in place */
+
+  /* 3. Font styling */
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 80px; /* Adjust size to fit your design */
+  font-size: 80px; 
   font-weight: 300;
   letter-spacing: -2px;
+  line-height: 1; /* Keeps the bounding box tight to the letters */
   
-  /* The Gradient Effect */
+  /* 4. The Gradient Effect */
   background: linear-gradient(to bottom, #000000 0%, #e0e0e0 50%, #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  }
+}
   /* The "Underline" (Vertical line on the right) */
   /* border-left: 2px solid #333; /* Appears on the right due to the rotation */
   /* padding-left: 15px;*/
