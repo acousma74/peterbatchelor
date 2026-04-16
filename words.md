@@ -4,14 +4,8 @@ title: words
 permalink: /words.html
 ---
 
-# Peter Batchelor: composer, sound designer
 
-## Navigation
-[News](index.html) • [Profile](bio.html) • [Projects](projects.html) • **Words** • [Software](software.html) • [Tutorials](tutorials.html) • [Contact](contact.html)
-
----
-
-# Words
+# words
 
 Batchelor, P. (2018)  
 **Through the Looking Glass: Reflectivity vs Transparency; and the embedding of Place through Sound.**  

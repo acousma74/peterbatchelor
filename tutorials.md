@@ -4,7 +4,7 @@ title: tutorials
 permalink: /tutorials.html
 ---
 
-# Tutorials
+# tutorials
 
 These are materials produced for undergraduates on the Creative Music Technology and Music, Technology & Performance programmes at De Montfort University, Leicester.  
 But they may be of use to others, hence my posting them here.
