@@ -175,10 +175,10 @@ a:active 		{color: #FF0000;
 #nav {
     position: relative;
     display: flex;
-    padding-left: 100px; 
+    padding-left: 40px; 
     justify-content: center;
     align-items: stretch; /* makes children full height */
-    width: 40%;
+    width: 100%;
     font-size: 20px;
     background-color: #888888;
     height: 50px; /* controls overall nav height */
