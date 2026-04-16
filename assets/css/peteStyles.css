@@ -15,6 +15,7 @@
 	background-size: 90px 714px;
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
+	scrollbar-gutter: stable; /* Prevents the 'jump' when a scrollbar appears */
 }
 
 /* Container to position the banner on your page */
