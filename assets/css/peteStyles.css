@@ -11,7 +11,7 @@
 	color: #444444;
 	/*background-color: #000000;*/
 	background-attachment: scroll;
-	background-image: url(../images/batchelorBanner4.png);
+	/*background-image: url(../images/batchelorBanner4.png);*/
 	background-size: 90px 714px;
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
@@ -44,7 +44,7 @@
   }
   /* The "Underline" (Vertical line on the right) */
   /* border-left: 2px solid #333; /* Appears on the right due to the rotation */
-  /* padding-left: 15px;
+  /* padding-left: 15px;*/
 
 
 
