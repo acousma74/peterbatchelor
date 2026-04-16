@@ -38,7 +38,7 @@
   text-orientation: mixed;
   transform: rotate(180deg);
   transform-origin: center; /* Ensures it rotates in place */
-  padding-top: 5px;
+  padding-top: 10px;
 
   /* 3. Font styling */
   font-family: 'Helvetica Neue Thin', Helvetica, Arial, sans-serif;
@@ -53,11 +53,11 @@
   -webkit-text-fill-color: transparent;
 
   /* The "Underline" (Vertical line on the right) */
-  border-left: 4px solid; 
-  border-image-source: linear-gradient(to bottom, #000000 0%, #cccccc 100%);
+  border-left: 3px solid; 
+  border-image-source: linear-gradient(to bottom, #000000 0%, #cccccc 97%);
   border-image-slice: 1;
 
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 
