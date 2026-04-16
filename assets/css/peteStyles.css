@@ -1,21 +1,12 @@
 /* CSS Document */
-	body 	{
-	font-family: Helvetica, sans-serif;
-	font-style: normal;
-	font-size: 11pt;
-	/*max-width: 500px;*/
-	/*margin: auto;*/
-	margin-left: 80px; 
-	/*margin-right: 80px; */
-	width:calc(100%vw-100px);
-	color: #444444;
-	/*background-color: #000000;*/
-	background-attachment: scroll;
-	/*background-image: url(../images/batchelorBanner4.png);*/
-	background-size: 90px 714px;
-	background-repeat: no-repeat;
-	background-position: 0px 0px;
-	scrollbar-gutter: stable; /* Prevents the 'jump' when a scrollbar appears */
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 11pt;
+    color: #444444;
+    margin: 0; /* Remove the 80px margin that was causing the offset */
+    padding: 0;
+    overflow-y: scroll; /* The most reliable fix for the jumping scrollbar */
+    scrollbar-gutter: stable; 
 }
 
 /* Container to position the banner on your page */
@@ -148,28 +139,34 @@ a:active 		{color: #FF0000;
 #batchelor h1 {font-size: 6px;}
 
 /* For main contents. */
-#contents		{position: relative;
-				/*margin-left: 97px;*/
-				
-				/*width: 639px;*/
-				max-width: 800px;
-				margin: auto;	
-				top: 70px;		
-				/*font-size: 18px; */
-				color: #666666;
-				}
+#contents {
+    position: relative;
+    top: 70px;      
+    color: #666666;
+    
+    /* 1. Set a modern width */
+    width: 90%; /* Responsive: takes up most of the screen on small displays */
+    max-width: 1050px; /* Limits the width on large monitors */
+    
+    /* 2. Centre it perfectly */
+    margin: 0 auto; 
+    
+    /* 3. Padding to ensure text doesn't hit the vertical banner on the left */
+    padding-left: 100px; 
+    box-sizing: border-box; /* Ensures padding doesn't break the width calculation */
+}
 
 /* For navigation. */
 #nav {
     position: relative;
-    width: 100vw;
+    width: 100%; /* Changed from 100vw to 100% to prevent horizontal scroll issues */
     font-size: 20px; 
     color: #000000;
     text-align: center;
     background-color: #D4D4D4;
     padding-top: 6px;
     padding-bottom: 6px;
-    z-index: 1000; /* Ensures menu sits above content */
+    z-index: 1000;
 }
 
 #nav a {
