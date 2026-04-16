@@ -26,11 +26,6 @@
   padding: 0px;
 }
 
-  /* The "Underline" (Vertical line on the right) */
-  border-left: 3px solid; 
-  border-image-source: linear-gradient(to bottom, #FFFFFF 0%, #cccccc 97%);
-  border-image-slice: 1;
-
 .vertical-text {
   /* 1. Positioning to the extreme top-left */
   position: absolute;
@@ -57,7 +52,10 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-
+  /* The "Underline" (Vertical line on the right) */
+  border-left: 3px solid; 
+  border-image-source: linear-gradient(to bottom, #FFFFFF 0%, #cccccc 97%);
+  border-image-slice: 1;
 
   padding-left: 0px;
 }
