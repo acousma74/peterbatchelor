@@ -23,6 +23,7 @@ body {
   top: 10px;
   left: 0;
   margin: 0;
+  z-index: 5; /* Keeps the whole banner on top of other things */
 
   /* 2. Orientation */
   writing-mode: vertical-rl;
@@ -50,7 +51,17 @@ body {
 
   padding-left: 0px;
 }
-
+/* This part creates the white background automatically */
+.vertical-text::before {
+  content: ""; /* Required for the element to show up */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #FFFFFF; 
+  z-index: -1; /* This ensures the white sits BEHIND the letters */
+}
 
 
 /* HEADINGS */	
