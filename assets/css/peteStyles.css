@@ -39,7 +39,7 @@
   transform-origin: center; /* Ensures it rotates in place */
 
   /* 3. Font styling */
-  font-family: 'Helvetica Neue Thin', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
   font-size: 80px; 
   font-weight: 300;
   letter-spacing: -2px;
