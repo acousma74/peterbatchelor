@@ -42,7 +42,7 @@
 
   /* 3. Font styling */
   font-family: 'Helvetica Neue Thin', Helvetica, Arial, sans-serif;
-  font-size: 90px; 
+  font-size: 80px; 
   font-weight: 300;
   letter-spacing: -2px;
   line-height: 1; /* Keeps the bounding box tight to the letters */
