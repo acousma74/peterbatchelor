@@ -178,7 +178,7 @@ a:active 		{color: #FF0000;
     background-color: #D4D4D4;
     padding-top: 6px;
     padding-bottom: 6px;
-    z-index: 1000;
+    z-index: -1;
 }
 
 #nav a {
