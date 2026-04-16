@@ -20,7 +20,7 @@
 /* Container to position the banner on your page */
 .banner-container {
   display: flex;
-  height: 50vh; /* Adjust height as needed */
+  height: 70vh; /* Adjust height as needed */
   width: fit-content;
   padding: 20px;
 }
@@ -38,14 +38,14 @@
   letter-spacing: -2px;
   
   /* The Gradient Effect */
-  background: linear-gradient(to bottom, #000000 0%, #000000 30%, #e0e0e0 80%, #ffffff 100%);
+  background: linear-gradient(to bottom, #000000 0%, #e0e0e0 50%, #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  
+  }
   /* The "Underline" (Vertical line on the right) */
   /* border-left: 2px solid #333; /* Appears on the right due to the rotation */
   /* padding-left: 15px;
-}
+
 
 
 
