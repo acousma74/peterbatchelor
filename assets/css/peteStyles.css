@@ -162,6 +162,7 @@ a:active 		{color: #FF0000;
 /* For navigation. */
 #nav {
     position: relative;
+    width: 100vw;
     font-size: 20px; 
     color: #000000;
     text-align: center;
