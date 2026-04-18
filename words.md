@@ -5,13 +5,13 @@ permalink: /words.html
 ---
 
 <h1 class="composition">words</h1>
-
+<p>&nbsp;</p>
 <table class="news">
 
   <!-- 2019 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2019.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2019"/>
     </td>
@@ -46,7 +46,7 @@ permalink: /words.html
   <!-- 2018 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2018.jpg"
+      <img src="{{ site.baseurl }}/assets/images/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2018"/>
     </td>
@@ -62,7 +62,7 @@ permalink: /words.html
   <!-- 2015 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2015.jpg"
+      <img src="{{ site.baseurl }}/assets/images/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2015"/>
     </td>
