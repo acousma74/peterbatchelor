@@ -46,7 +46,7 @@ permalink: /words.html
   <!-- 2018 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/assets/images/pdficon.png"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2018"/>
     </td>
@@ -62,7 +62,7 @@ permalink: /words.html
   <!-- 2015 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/assets/images/pdficon.png"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2015"/>
     </td>
