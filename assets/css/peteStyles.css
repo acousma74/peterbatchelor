@@ -259,6 +259,7 @@ a:active 		{color: #FF0000;
 }
 
 /* For 'news'(blog) page */
+/*
 table.news {
     width: 100%;
     border-collapse: collapse;
@@ -272,6 +273,19 @@ td.news			{padding: 20px 10px; /* 20px top/bottom, 10px left/right */
                 text-align: left;    /* Ensures content is to the left */
 				border-bottom: 1px solid #CCCCCC;
                 }
+
+*/
+
+table.news		{width: 100%;
+				border-collapse: collapse;
+				border-style: solid;
+				border-color: #D4D4D4;
+				}
+tr.news:nth-child(even) {background-color: #EEEEEE;}
+tr.news:nth-child(odd) {background-color: #DDDDDD;}
+td.news			{padding: 20px;
+				}
+
 h1.news			{font-family: Helvetica, Arial, sans-serif;
 				font-weight: normal;
 				font-size: 18pt;
