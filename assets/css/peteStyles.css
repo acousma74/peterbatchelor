@@ -267,14 +267,16 @@ table.news {
 
 tr.news:nth-child(even) {background-color: #EEEEEE;}
 tr.news:nth-child(odd) {background-color: #DDDDDD;}
-td.news			{padding: 20px;
+td.news			{padding: 20px 10px; /* 20px top/bottom, 10px left/right */
+                vertical-align: top; /* Positions content at the top of the cell */
+                text-align: left;    /* Ensures content is to the left */
 				}
-h1.news			{font-family: Tahoma, Verdana, Arial, sans-serif;
+h1.news			{font-family: Helvetica, Arial, sans-serif;
 				font-weight: normal;
 				font-size: 18pt;
 				margin: 0 0 0 0;
 				}
-h2.newsDate		{font-family: Tahoma, Verdana, Arial, sans-serif;
+h2.newsDate		{font-family: Helvetica, Arial, sans-serif;
 				font-weight: normal;
 				font-size: 10pt;
 				margin: 0 0 0 0;
