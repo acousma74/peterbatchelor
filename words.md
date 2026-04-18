@@ -16,9 +16,9 @@ permalink: /words.html
            alt="Batchelor 2019"/>
     </td>
     <td>
-      <p><em><strong>
+      <p><strong>
         Batchelor, P. (2019). ‘Grasping the intimate immensity: acousmatic compositional techniques in sound art as something to hold on to’, <em>Organised Sound</em>, 24(3). DOI: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1907DFDF68BF43506AD22562ACFECF7C/S1355771819000372a.pdf">
-        10.1017/S1355771819000372</a></strong></em></p>
+        10.1017/S1355771819000372</a></strong></p>
 
 
       <p><a href="https://drive.google.com/file/d/12X5j_UrRqUxxfS8bAUsFdmZkoaG6ij5Y/view?usp=share_link">
