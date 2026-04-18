@@ -27,11 +27,11 @@ permalink: /words.html
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          Abstract: This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. It proposes that installations can foster accessibility in two key ways: by cultivating relationships between installation and visitor, and by encouraging relationships between visitors themselves.
+          <p>Abstract: This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. It proposes that installations can foster accessibility in two key ways: by cultivating relationships between installation and visitor, and by encouraging relationships between visitors themselves.</p>
 
-          A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.
+          <p>A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
 
-          Alongside a number of sound art examples, the author’s ongoing <em>GRIDs</em> series of sound sculptures is presented as a case study.
+         <p> Alongside a number of sound art examples, the author’s ongoing <em>GRIDs</em> series of sound sculptures is presented as a case study.</p>
         </td></tr>
       </table>
     </td>
