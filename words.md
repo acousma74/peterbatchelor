@@ -28,7 +28,7 @@ permalink: /words.html
         <td>&nbsp;&nbsp;</td>
         <td>
           <p>
-            <strong>Abstract:</strong> This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.
+            This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.
           </p>
         </td>
       </tr>
