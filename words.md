@@ -27,11 +27,7 @@ permalink: /words.html
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          <p>Abstract: This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. It proposes that installations can foster accessibility in two key ways: by cultivating relationships between installation and visitor, and by encouraging relationships between visitors themselves.</p>
-
-          <p>A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
-
-         <p> Alongside a number of sound art examples, the author’s ongoing <em>GRIDs</em> series of sound sculptures is presented as a case study.</p>
+          <p>Abstract: This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
         </td></tr>
       </table>
     </td>
@@ -78,11 +74,7 @@ permalink: /words.html
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          Abstract: This article examines concepts of image and space in both acousmatic music and sound art, identifying overlaps often overlooked.
-
-          It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments.
-
-          The article concludes by exploring how listeners engage with constructed image space in installations.
+          Abstract: This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.
         </td></tr>
       </table>
     </td>
@@ -92,9 +84,9 @@ permalink: /words.html
   <!-- 2013 LMJ -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2013_lmj.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
-           alt="Batchelor 2013 LMJ"/>
+           alt="Batchelor 2015"/>
     </td>
     <td>
       <em><strong>
@@ -108,9 +100,9 @@ permalink: /words.html
   <!-- 2013 eOrema -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2013_eorema.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
-           alt="Batchelor 2013 eOrema"/>
+           alt="Batchelor 2015"/>
     </td>
     <td>
       <em><strong>
@@ -140,9 +132,9 @@ permalink: /words.html
   <!-- 2013 OS -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2013_os.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
-           alt="Batchelor 2013 Organised Sound"/>
+           alt="Batchelor 2015"/>
     </td>
     <td>
       <em><strong>
@@ -160,9 +152,9 @@ permalink: /words.html
   <!-- 2007 EMS -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2007_ems.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
-           alt="Batchelor 2007 EMS"/>
+           alt="Batchelor 2015"/>
     </td>
     <td>
       <em><strong>
@@ -180,9 +172,9 @@ permalink: /words.html
   <!-- 2007 ICMC -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/publications/batchelor2007_icmc.jpg"
+      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
-           alt="Batchelor 2007 ICMC"/>
+           alt="Batchelor 2015"/>
     </td>
     <td>
       <em><strong>
