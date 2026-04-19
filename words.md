@@ -10,27 +10,40 @@ permalink: /words.html
 
   <!-- 2019 -->
   <tr class="news">
-    <td>
-      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
-           width="120" height="120"
-           alt="Batchelor 2019"/>
-    </td>
-    <td>
-      
-       <em><strong>
-        Batchelor, P. (2019). ‘Grasping the intimate immensity: acousmatic compositional techniques in sound art as something to hold on to’
-      </strong></em><br/>
-      <span class="smalltext"><em>Organised Sound, 24(3), pp.307-318. DOI: <a href="https://www.cambridge.org/core/journals/organised-sound/article/abs/grasping-the-intimate-immensity-acousmatic-compositional-techniques-in-sound-art-as-something-to-hold-on-to/1907DFDF68BF43506AD22562ACFECF7C">NUMBER</a></span><br/>
-      <a href="https://drive.google.com/file/d/12X5j_UrRqUxxfS8bAUsFdmZkoaG6ij5Y/view?usp=share_link">Download author copy
-      </a>
+  <td>
+    <img src="{{ site.baseurl }}/assets/images/pdficon.png"
+         width="120" height="120"
+         alt="Batchelor 2019"/>
+  </td>
+  <td>
+    <em><strong>
+      Batchelor, P. (2019). ‘Grasping the intimate immensity: acousmatic compositional techniques in sound art as something to hold on to’
+    </strong></em><br/>
 
-      <table border="0">
-        <tr><td>&nbsp;&nbsp;</td><td>
-          <p>Abstract: This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
+    <span class="smalltext">
+      <em>Organised Sound, 24(3), pp. 307–318. DOI:
+        <a href="https://www.cambridge.org/core/journals/organised-sound/article/abs/grasping-the-intimate-immensity-acousmatic-compositional-techniques-in-sound-art-as-something-to-hold-on-to/1907DFDF68BF43506AD22562ACFECF7C">
+          View article
+        </a>
+      </em>
+    </span><br/>
+
+    <a href="https://drive.google.com/file/d/12X5j_UrRqUxxfS8bAUsFdmZkoaG6ij5Y/view?usp=share_link">
+      Download author copy
+    </a>
+
+    <table border="0">
+      <tr>
+        <td>&nbsp;&nbsp;</td>
+        <td>
+          <p>
+            <strong>Abstract:</strong> This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
 
 
   <!-- 2018 -->
