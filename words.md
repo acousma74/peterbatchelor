@@ -60,23 +60,16 @@ permalink: /words.html
            alt="Batchelor 2015"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2015). ‘Acousmatic approaches to the construction of image and space in sound art’
-      </strong></em><br/>
-      <span class="smalltext"><em>Organised Sound</em>, 20(2), pp. 148–159</span><br/>
-
-      DOI:
-      <a href="https://doi.org/10.1017/S1355771815000035">
-        10.1017/S1355771815000035
-      </a><br/>
-
-      <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">
-        Download (author copy)
+      
+        Batchelor, P. (2015). <strong>Acousmatic approaches to the construction of image and space in sound art</strong>
+        
+      <br/>
+      <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a</em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035.</span> | <a https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing>Download(author copy)</a>
       </a>
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          Abstract: This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.
+          <span class="smalltext">This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</span>
         </td></tr>
       </table>
     </td>
