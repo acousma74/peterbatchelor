@@ -5,7 +5,7 @@ permalink: /words.html
 ---
 
 <h1 class="composition">words</h1>
-<p>&nbsp;</p>
+<p class="compsmall">&nbsp;</p>
 <table class="news">
 
   <!-- 2019 -->
@@ -27,7 +27,7 @@ permalink: /words.html
         <td>&nbsp;&nbsp;</td>
         <td>
           
-            <span class="smalltext">This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</span>
+            <p class="compsmall">This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
           
         </td>
       </tr>
@@ -69,7 +69,7 @@ permalink: /words.html
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</span>
+          <p class="compsmall">This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</p>
         </td></tr>
       </table>
     </td>
