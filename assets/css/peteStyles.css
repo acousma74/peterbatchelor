@@ -258,6 +258,58 @@ a:active 		{color: #FF0000;
     color: #000000;
 }
 
+
+/* --- Secondary inline navigation (wnavtxt) --- */
+
+.wnavtxt {
+    display: inline-block;
+    font-size: 12px;
+    background-color: #eeeeee;   /* lighter than main nav */
+    padding: 6px 10px;
+    border-radius: 4px;
+    border: 1px solid #dddddd;
+}
+
+/* Space out everything nicely */
+.wnavtxt a,
+.wnavtxt .white {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 2px 2px;
+}
+
+/* Divider bullets + pipes softened */
+.wnavtxt {
+    color: #999999;
+}
+
+/* Links styled like mini buttons */
+.wnavtxt a {
+    text-decoration: none;
+    color: #666666;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+}
+
+/* Hover = subtle echo of main nav */
+.wnavtxt a:hover {
+    background-color: #dddddd;
+    color: #000000;
+}
+
+/* Active/current item (your OVERVIEW span) */
+.wnavtxt .white {
+    background-color: #888888;
+    color: #ffffff;
+    border-radius: 3px;
+}
+
+/* Optional: tighten bullet spacing */
+.wnavtxt a + a {
+    margin-left: 2px;
+}
+
 /* For 'news'(blog) page */
 /*
 table.news {
