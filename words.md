@@ -64,7 +64,7 @@ permalink: /words.html
         Batchelor, P. (2015). <strong>Acousmatic approaches to the construction of image and space in sound art</strong>
         
       <br/>
-      <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a>x</em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035. | <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing">Download(author copy)</a></span>
+      <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a></em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035. | <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing">Download</a></span>
       
 
       <table border="0">
