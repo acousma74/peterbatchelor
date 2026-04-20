@@ -167,14 +167,19 @@ permalink: /words.html
            alt="Batchelor 2015"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2007). ‘Really hearing the thing: an investigation of the creative possibilities of trompe l’oreille and the fabrication of aural landscapes’
-      </strong></em><br/>
-      <span class="smalltext"><em>EMS Proceedings 2007</em></span><br/>
+      
+        Batchelor, P. (2007). <strong>Really hearing the thing: an investigation of the creative possibilities of trompe l’oreille and the fabrication of aural landscapes.
+      </strong><br/>
+      <span class="smalltext"><em>Proceedings of the Electroacoustic Music Studies Network, 2007</em>. | <a href="https://drive.google.com/file/d/186HhwgxJislrvf9Y76hgKdWWfyJjc8xL/view?usp=share_link">
+        Download
+      </a></span><br/>
 
-      <a href="{{ site.baseurl }}/resources/BatchelorP(2007)_ReallyHearingTheThing.pdf">
-        View PDF
-      </a>
+       <table border="0">
+        <tr><td>&nbsp;&nbsp;</td><td>
+          <p class="compsmall">This article explores trompe l’oreille—aural illusions indistinguishable from reality—examining their creative potential and relevance to acousmatic practice and sound art. It also explores their capacity to shape perception and deepen environmental listening.
+.</p>
+        </td></tr>
+      </table>
     </td>
   </tr>
 
@@ -187,13 +192,17 @@ permalink: /words.html
            alt="Batchelor 2015"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2007). ‘Fabricating aural landscapes: some compositional implications of trompe l’oreille’
-      </strong></em><br/>
+      
+        Batchelor, P. (2007). <strong>Fabricating aural landscapes: some compositional implications of trompe l’oreille
+      </strong><br/>
       <span class="smalltext">
-        <em>Proceedings of the International Computer Music Conference 2007</em>, pp. 149–152
+        <em><a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2007.033/--fabricating-aural-landscapes-some-compositional-implications?view=image">Proceedings of the International Computer Music Conference 2007</a></em>, pp. 149–152. | <a href="https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2007.033/bbp2372.2007.033.pdf#page=1;zoom=75">
+        Download
+      </a>
       </span>
     </td>
   </tr>
+
+
 
 </table>
