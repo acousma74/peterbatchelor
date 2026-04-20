@@ -142,9 +142,9 @@ permalink: /words.html
       </strong><br/>
       <span class="smalltext"><em><a href="https://www.cambridge.org/core/journals/organised-sound/article/abs/lowercase-strategies-in-public-sound-art-celebrating-the-transient-audience/12AD6744DD73BCE92CE322D1BE96DB7F">
         Organised Sound
-      </a></em>, 18(1), pp.14-21. DOI: 10.1017/S1355771812000209</span> | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
+      </a></em>, 18(1), pp.14-21. DOI: 10.1017/S1355771812000209 | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
         Download
-      </a><br/>
+      </a><br/></span><br/>
 
 
       
@@ -172,7 +172,7 @@ permalink: /words.html
       </strong><br/>
       <span class="smalltext"><em>Proceedings of the Electroacoustic Music Studies Network, 2007</em>. | <a href="https://drive.google.com/file/d/186HhwgxJislrvf9Y76hgKdWWfyJjc8xL/view?usp=share_link">
         Download
-      </a></span><br/>
+      </a><br/></span><br/>
 
        <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
