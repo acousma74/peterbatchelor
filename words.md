@@ -17,7 +17,7 @@ permalink: /words.html
   </td>
   <td>
     
-      Batchelor, P. (2019). <strong>Grasping the intimate immensity: acousmatic compositional techniques in sound art as something to hold on to</strong><br/>
+      Batchelor, P. (2019). <strong>Grasping the intimate immensity: acousmatic compositional techniques in sound art as something to hold on to</strong>.
       
       <span class="smalltext"><em><a href="https://www.cambridge.org/core/journals/organised-sound/article/abs/grasping-the-intimate-immensity-acousmatic-compositional-techniques-in-sound-art-as-something-to-hold-on-to/1907DFDF68BF43506AD22562ACFECF7C"> Organised Sound</a> </em>, 24(3), pp. 307–318. DOI: 10.1017/S1355771819000372. | <a href="https://drive.google.com/file/d/12X5j_UrRqUxxfS8bAUsFdmZkoaG6ij5Y/view?usp=share_link"> Download </a> </span>
    
@@ -27,7 +27,7 @@ permalink: /words.html
         <td>&nbsp;&nbsp;</td>
         <td>
           
-            <p class="compsmall">This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
+            <p >This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
           
         </td>
       </tr>
@@ -61,15 +61,15 @@ permalink: /words.html
     </td>
     <td>
       
-        Batchelor, P. (2015). <strong>Acousmatic approaches to the construction of image and space in sound art</strong>. 
+        Batchelor, P. (2015). <strong>Acousmatic approaches to the construction of image and space in sound art</strong>.
         
-     
+      <br/>
       <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a></em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035. | <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing">Download</a></span>
       
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          <p >This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</p>
+          <p class="compsmall">This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</p>
         </td></tr>
       </table>
     </td>
