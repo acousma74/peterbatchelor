@@ -69,7 +69,7 @@ permalink: /words.html
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          <p class="compsmall">This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</p>
+          <p >This article examines concepts of image and space in both acousmatic music and sound art. It introduces the <em>GRIDs</em> project: multichannel sound sculptures arranged in geometric arrays of loudspeakers, enabling highly intricate spatial sound environments. The article concludes by exploring how listeners engage with constructed image space in installations.</p>
         </td></tr>
       </table>
     </td>
