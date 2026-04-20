@@ -266,7 +266,7 @@ a:active 		{color: #FF0000;
     font-size: 18px;
     background-color: #eeeeee;   /* lighter than main nav */
     padding: 0px 0px;
-    border-radius: 2px;
+    border-radius: 0px;
     border: 1px solid #dddddd;
 }
 
@@ -302,7 +302,7 @@ a:active 		{color: #FF0000;
 .wnavtxt .white {
     background-color: #888888;
     color: #ffffff;
-    border-radius: 3px;
+    border-radius: 0px;
 }
 
 /* Optional: tighten bullet spacing */
