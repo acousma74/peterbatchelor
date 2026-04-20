@@ -64,7 +64,7 @@ permalink: /words.html
         Batchelor, P. (2015). <strong>Acousmatic approaches to the construction of image and space in sound art</strong>.
         
       <br/>
-      <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a></em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035. | <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing">Download</a></span>
+      <span class="smalltext"><em><a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=share_link">Organised Sound</a></em>, 20(2), pp. 148–159. DOI: 10.1017/S1355771815000035. | <a href="https://drive.google.com/file/d/1K390GF9LnRt39xUZsaHuzCu2m7zWO81X/view?usp=sharing">Download</a><br/><&nbsp;></span>
       
 
       <table border="0">
@@ -87,7 +87,7 @@ permalink: /words.html
       
         Batchelor, P. (2013). <strong>The intimate and the immersive in grids: a series of multichannel sound installations
       </strong><br/>
-      <span class="smalltext"><em><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A13%3A23885021/detailv2?sid=ebsco%3Aocu%3Arecord&id=ebsco%3Adoi%3A10.1162%2FLMJ_a_00136&bquery=IS%200961-1215%20AND%20VI%2023%20AND%20IP%201%20AND%20DT%202013&page=1&link_origin=scholar.google.com&searchDescription=Leonardo%20Music%20Journal%2C%202013%2C%20Vol%2023%2C%20Issue%201&crl=f">Leonardo Music Journal</a></em>23, 6-7.</span>
+      <span class="smalltext"><em><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A13%3A23885021/detailv2?sid=ebsco%3Aocu%3Arecord&id=ebsco%3Adoi%3A10.1162%2FLMJ_a_00136&bquery=IS%200961-1215%20AND%20VI%2023%20AND%20IP%201%20AND%20DT%202013&page=1&link_origin=scholar.google.com&searchDescription=Leonardo%20Music%20Journal%2C%202013%2C%20Vol%2023%2C%20Issue%201&crl=f">Leonardo Music Journal</a></em>23, 6-7.<br/><&nbsp;></span>
 
 
       <table border="0">
@@ -114,9 +114,9 @@ permalink: /words.html
       </strong><br/>
       <span class="smalltext"><em><a href="http://www.orema.dmu.ac.uk/eorema/towards-framework-analysing-public-sound-art">
         eOrema Journal
-      </a></em>, 1. DOI: 10.3943/001.2013.04.0106</span> | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
+      </a></em>, 1. DOI: 10.3943/001.2013.04.0106 | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
         Download
-      </a><br/>
+      </a><br/><&nbsp;></span>
 
 
       
@@ -144,7 +144,7 @@ permalink: /words.html
         Organised Sound
       </a></em>, 18(1), pp.14-21. DOI: 10.1017/S1355771812000209 | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
         Download
-      </a><br/></span><br/>
+      </a><br/><&nbsp;></span><br/>
 
 
       
@@ -172,7 +172,7 @@ permalink: /words.html
       </strong><br/>
       <span class="smalltext"><em>Proceedings of the Electroacoustic Music Studies Network, 2007</em>. | <a href="https://drive.google.com/file/d/186HhwgxJislrvf9Y76hgKdWWfyJjc8xL/view?usp=share_link">
         Download
-      </a><br/></span><br/>
+      </a><br/><br/><&nbsp;></span><br/>
 
        <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
@@ -198,8 +198,13 @@ permalink: /words.html
       <span class="smalltext">
         <em><a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2007.033/--fabricating-aural-landscapes-some-compositional-implications?view=image">Proceedings of the International Computer Music Conference 2007</a></em>, pp. 149–152. | <a href="https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2007.033/bbp2372.2007.033.pdf#page=1;zoom=75">
         Download
-      </a>
+      </a><br/><&nbsp;>
       </span>
+      <table border="0">
+        <tr><td>&nbsp;&nbsp;</td><td>
+          <p class="compsmall">This article introduces trompe l’oreille as a compositional approach within acousmatic music, outlining its theoretical grounding and its potential to expand the palette from poetic sound exploration to subtle intervention in perceived reality.</p>
+        </td></tr>
+      </table>
     </td>
   </tr>
 
