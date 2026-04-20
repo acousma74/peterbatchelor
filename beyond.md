@@ -31,15 +31,15 @@ permalink: /beyond.html
 	<tr class="news">
 		<td width="120"><a href="beyond_white.html"><img src="images/Beyond/beyondWhiteThumb.jpg" width="120" height="120" alt=""/></a></td>
 		
-  	<td><a href="beyond_white.html"><strong><em>Beyond: White</em></strong></a> (2014) is the most thematically 'neutral' of the <em>Beyond</em> series, and accommodates the widest variety of sounds across its surface. However, clad in textured pure white fabric, its resemblance to a virus prompts the exploration of organic, watery sounds in particular.</td>
-	</tr>
+  		<td class="news"><a href="beyond_white.html"><strong><em>Beyond: White</em></strong></a> (2014) is the most thematically 'neutral' of the <em>Beyond</em> series, and accommodates the widest variety of sounds across its surface. However, clad in textured pure white fabric, its resemblance to a virus prompts the exploration of organic, watery sounds in particular.</td>
+		</tr>
 	<tr class="news">
-		<td><a href="beyond_willow.html"><img src="images/Beyond/beyondWillowThumb.png" width="120" height="120" alt=""/></a></td>
-	<td><a href="beyond_willow.html"><strong><em>Beyond: Willow</em></strong></a> (2015) is closest to the 'ideal' <em>Beyond</em> form in being clad in willow and moss, and being presented in outdoor environments which invite the most exploration of the relationship between the sounds from 'within' and those from 'beyond', as experienced within the structure.</td>
-	</tr>	
+		<td class="news"><a href="beyond_willow.html"><img src="images/Beyond/beyondWillowThumb.png" width="120" height="120" alt=""/></a></td>
+		<td class="news"><a href="beyond_willow.html"><strong><em>Beyond: Willow</em></strong></a> (2015) is closest to the 'ideal' <em>Beyond</em> form in being clad in willow and moss, and being presented in outdoor environments which invite the most exploration of the relationship between the sounds from 'within' and those from 'beyond', as experienced within the structure.</td>
+		</tr>	
 	<tr class="news">
-		<td><a href="beyond_fire.html"><img src="images/Beyond/beyondFireThumb.jpg" width="120" height="120" alt=""/></a></td>
-	<td><a href="beyond_fire.html"><strong><em>Beyond: Fire</em></strong></a> (2015)</p></td>
+		<td class="news"><a href="beyond_fire.html"><img src="images/Beyond/beyondFireThumb.jpg" width="120" height="120" alt=""/></a></td>
+		<td class="news"><a href="beyond_fire.html"><strong><em>Beyond: Fire</em></strong></a> (2015)</p></td>
 	</tr>	
 
 </table>
