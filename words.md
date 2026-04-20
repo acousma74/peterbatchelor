@@ -170,9 +170,12 @@ permalink: /words.html
       
         Batchelor, P. (2007). <strong>Really hearing the thing: an investigation of the creative possibilities of trompe l’oreille and the fabrication of aural landscapes.
       </strong><br/>
-      <span class="smalltext"><em>Proceedings of the Electroacoustic Music Studies Network, 2007</em>. | <a href="https://drive.google.com/file/d/186HhwgxJislrvf9Y76hgKdWWfyJjc8xL/view?usp=share_link">
+      <span class="smalltext"><em><a href="http://www.ems-network.org/spip.php?article289">Proceedings of the Electroacoustic Music Studies Network, 2007</a></em>. | <a href="https://drive.google.com/file/d/186HhwgxJislrvf9Y76hgKdWWfyJjc8xL/view?usp=share_link">
         Download
       </a><br/><br/>&nbsp;</span><br/>
+
+
+
 
        <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
@@ -207,7 +210,5 @@ permalink: /words.html
       </table>
     </td>
   </tr>
-
-
 
 </table>
