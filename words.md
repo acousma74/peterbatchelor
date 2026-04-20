@@ -27,7 +27,7 @@ permalink: /words.html
         <td>&nbsp;&nbsp;</td>
         <td>
           
-            <p >This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
+            <p  class="compsmall">This article explores the accessibility of acousmatic compositional approaches within sound and installation art, focusing on the role of intimacy as a means of connecting with an audience. A range of acousmatic compositional techniques relating to intimacy are examined as strategies for drawing listeners into a work, particularly in relation to space and spatial relationships.</p>
           
         </td>
       </tr>
@@ -79,15 +79,15 @@ permalink: /words.html
   <!-- 2013 LMJ -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
+      <img src="{{ site.baseurl }}/assets/images/blank.jpg"
            width="120" height="120"
-           alt="Batchelor 2015"/>
+           alt="Batchelor 2013"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2013). ‘The intimate and the immersive in grids: a series of multichannel sound installations’
-      </strong></em><br/>
-      <span class="smalltext"><em>Leonardo Music Journal</em></span>
+      
+        Batchelor, P. (2013). <strong>The intimate and the immersive in grids: a series of multichannel sound installations
+      </strong><br/>
+      <span class="smalltext"><em><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A13%3A23885021/detailv2?sid=ebsco%3Aocu%3Arecord&id=ebsco%3Adoi%3A10.1162%2FLMJ_a_00136&bquery=IS%200961-1215%20AND%20VI%2023%20AND%20IP%201%20AND%20DT%202013&page=1&link_origin=scholar.google.com&searchDescription=Leonardo%20Music%20Journal%2C%202013%2C%20Vol%2023%2C%20Issue%201&crl=f">Leonardo Music Journal</a></em>23, 6-7.</span>
     </td>
   </tr>
 
@@ -100,48 +100,54 @@ permalink: /words.html
            alt="Batchelor 2015"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2013). ‘Towards a framework for analysing public sound art’
-      </strong></em><br/>
-      <span class="smalltext"><em>eOrema Journal</em></span><br/>
-
-      <a href="http://www.orema.dmu.ac.uk/eorema/towards-framework-analysing-public-sound-art">
-        View article
+      
+        Batchelor, P. (2013). <strong>Towards a framework for analysing public sound art
+      </strong><br/>
+      <span class="smalltext"><em><a href="http://www.orema.dmu.ac.uk/eorema/towards-framework-analysing-public-sound-art">
+        eOrema Journal
+      </a></em>, 1. DOI: 10.3943/001.2013.04.0106</span> | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
+        Download
       </a><br/>
 
-      <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
-        Download (author copy)
-      </a>
+
+      
 
       <table border="0">
         <tr><td>&nbsp;&nbsp;</td><td>
-          Abstract: This article proposes starting points for analysing sound art in public settings, drawing on approaches from music, architecture, and urban studies.
-
-          It focuses on reception conditions shaped by transient audiences and establishes a foundation for a broader analytical framework.
+          <p class="compsmall">This article proposes starting points for analysing sound art in public settings, drawing on approaches from music, architecture, and urban studies. It focuses on reception conditions shaped by transient audiences and establishes a foundation for a broader analytical framework.</p>
         </td></tr>
       </table>
     </td>
   </tr>
 
 
-  <!-- 2013 OS -->
-  <tr class="news">
+<tr class="news">
     <td>
       <img src="{{ site.baseurl }}/assets/images/pdficon.png"
            width="120" height="120"
            alt="Batchelor 2015"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2013). ‘Lowercase strategies in public sound art: celebrating the transient audience’
-      </strong></em><br/>
-      <span class="smalltext"><em>Organised Sound</em>, 18(1), pp. 14–21</span><br/>
+      
+        Batchelor, P. (2013). <strong>Lowercase Strategies in Public Sound Art: Celebrating the Transient Audience
+      </strong><br/>
+      <span class="smalltext"><em><a href="https://www.cambridge.org/core/journals/organised-sound/article/abs/lowercase-strategies-in-public-sound-art-celebrating-the-transient-audience/12AD6744DD73BCE92CE322D1BE96DB7F">
+        Organised Sound
+      </a></em>, 18(1), pp.14-21. DOI: 10.1017/S1355771812000209</span> | <a href="https://drive.google.com/file/d/1Hd2kuLbh33l3_R45YFoZwViU9Yz5tkXV/view?usp=share_link">
+        Download
+      </a><br/>
 
-      <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8872447">
-        View abstract
-      </a>
+
+      
+
+      <table border="0">
+        <tr><td>&nbsp;&nbsp;</td><td>
+          <p class="compsmall">This essay considers how public sound art can navigate the incidental audiences encountered in the the public domain. It proposes using lowercase strategies to reveal a site's acoustic ecology through creative, site-sensitive exploration, and advocates for an invitational approach that empowers the public as active participants rather than passive subjects.</p>
+        </td></tr>
+      </table>
     </td>
   </tr>
+  
 
 
   <!-- 2007 EMS -->
