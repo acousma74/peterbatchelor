@@ -39,15 +39,15 @@ permalink: /words.html
   <!-- 2018 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/pdficon.png"
+      <img src="{{ site.baseurl }}/assets/images/blank.png"
            width="120" height="120"
            alt="Batchelor 2018"/>
     </td>
     <td>
-      <em><strong>
-        Batchelor, P. (2018). ‘Through the Looking Glass: Reflectivity vs Transparency; and the embedding of place through sound’
-      </strong></em><br/>
-      <span class="smalltext"><em>Arctic Sound & Nature</em>, pp. 65–81</span>
+      
+        Batchelor, P. (2018). <strong>‘Through the Looking Glass: Reflectivity vs Transparency; and the embedding of place through sound’</strong>
+      <br/>
+      <span class="smalltext"><em>Arctic Sound & Nature</em>, edited by Jaana Erkkilä and Jari Rinne, Rovaniemi: University of Lapland, pp. 65–81.</span>
     </td>
   </tr>
 
