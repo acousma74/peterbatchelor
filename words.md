@@ -88,8 +88,17 @@ permalink: /words.html
         Batchelor, P. (2013). <strong>The intimate and the immersive in grids: a series of multichannel sound installations
       </strong><br/>
       <span class="smalltext"><em><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A13%3A23885021/detailv2?sid=ebsco%3Aocu%3Arecord&id=ebsco%3Adoi%3A10.1162%2FLMJ_a_00136&bquery=IS%200961-1215%20AND%20VI%2023%20AND%20IP%201%20AND%20DT%202013&page=1&link_origin=scholar.google.com&searchDescription=Leonardo%20Music%20Journal%2C%202013%2C%20Vol%2023%2C%20Issue%201&crl=f">Leonardo Music Journal</a></em>23, 6-7.</span>
+
+
+      <table border="0">
+        <tr><td>&nbsp;&nbsp;</td><td>
+          <p class="compsmall">This short article introduces GRIDs, GRIDs a series of multichannel sound installations that condense immersive acousmatic spatial practices into intimate environments. Using geometric loudspeaker arrays, the works invite active listening and deepen awareness of both constructed and real space.</p>
+        </td></tr>
+      </table>
     </td>
   </tr>
+
+
 
 
   <!-- 2013 eOrema -->
