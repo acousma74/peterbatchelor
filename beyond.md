@@ -9,14 +9,14 @@ permalink: /beyond.html
     &bull; 2014+</p>
   <img src="images/line.jpg" alt="line" width="800" height="1" /> 
 
-	<table>
+<table>
 	<tr>
       <td><p class="wnavtxt"><span class="white">OVERVIEW</span> &bull; <a href="beyond_research.html">RESEARCH</a>  &bull; <a href="beyond_research.html">DEVELOPMENT</a> 
     &bull; DOCUMENTATION: <a href="beyond_white.html">white</a> 
     | <a href="beyond_willow.html">willow</a> | <a href="beyond_fire.html">fire</a> &bull; <a href="beyond_audio.html">AUDIO</a></p> </td>
 
-    </tr>	
-	</table>
+</tr>	
+</table>
   
 
 <img src="images/line.jpg" alt="line" width="800" height="1" /> 
