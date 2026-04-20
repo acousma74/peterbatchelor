@@ -12,14 +12,14 @@ permalink: /contraptionDev.html
   <p class="compsmall">a proposed 400 channel work 
     &bull; 2020 </p>
  
-	<img src="images/line.jpg" alt="line" width="800" height="1" /> 
-	<table>
+<img src="images/line.jpg" alt="line" width="800" height="1" /> 
+<table>
 	<tr>
       <td><p class="wnavtxt"><a href="contraption.html">CONCEPT</a> &bull; <span class="white">DEVELOPMENT</span></p>  </td>
 
     </tr>	
 	</table>	
-	<img src="images/line.jpg" alt="line" width="800" height="1" /> 
+<img src="images/line.jpg" alt="line" width="800" height="1" /> 
 	
 
 <div class="compspacer">&nbsp;</div> 
@@ -28,7 +28,7 @@ permalink: /contraptionDev.html
 	<p>&nbsp;</p>
 
 	  
-	   <table class="news" width="100%" border="1">	   
+<table class="news" width="100%" border="1">	   
 
 		   
 <tr class="news">
