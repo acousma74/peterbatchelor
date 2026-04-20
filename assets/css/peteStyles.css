@@ -258,12 +258,73 @@ a:active 		{color: #FF0000;
     color: #000000;
 }
 
+/* --- Sub navigation bar (just below main nav) --- */
+
+#subnavsub {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #eeeeee;   /* lighter than main nav */
+    border-bottom: 1px solid #cccccc;
+
+    padding: 4px 0;
+    font-size: 16px;
+
+    /* This is the key alignment move */
+    box-sizing: border-box;
+}
+
+/* Keep same internal spacing logic as wnavtxt */
+#subnavsub a,
+#subnavsub .white {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 2px;
+    text-decoration: none;
+}
+
+/* Default link style */
+#subnavsub a {
+    color: #666666;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+}
+
+/* Hover */
+#subnavsub a:hover {
+    background-color: #dddddd;
+    color: #000000;
+}
+
+/* Active */
+#subnavsub .white {
+    background-color: #888888;
+    color: #ffffff;
+}
+
+/* Hide bullets visually */
+#subnavsub {
+    color: #eeeeee;
+}
+
+/* Restore link visibility */
+#subnavsub a,
+#subnavsub .white {
+    color: #666666;
+}
+
+#subnavsub .white {
+    color: #ffffff;
+}
 
 /* --- Secondary inline navigation (wnavtxt) --- */
 
 .wnavtxt {
     display: inline-block;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #eeeeee;   /* lighter than main nav */
     padding: 0px 3px;
     border-radius: 0px;

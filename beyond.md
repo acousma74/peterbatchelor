@@ -3,6 +3,10 @@ layout: default
 title: Beyond
 permalink: /beyond.html
 ---
+<div id="subnavsub"> <a href="canvas.html"><em>CANVAS</em></a> &bull; <span class="white"><em>BEYOND</em></span>
+  &bull; <a href="cascade.html"><em>CASCADE</em></a> &bull; <a href="orbits.html"><em>ORBITS</em></a> &bull; <a href="contraption.html"><em>CONTRAPTION</em></a> &bull; <a href="cluster.html"><em>CLUSTER</em></a> &bull; <a href="currents.html"><em>CURRENTS</em></a></div>
+
+  
 
   <h1 class="composition">Beyond</h1>
   <p class="compsmall">for 40 channel geodesic sphere 
