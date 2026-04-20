@@ -39,7 +39,7 @@ permalink: /words.html
   <!-- 2018 -->
   <tr class="news">
     <td>
-      <img src="{{ site.baseurl }}/assets/images/blank.png"
+      <img src="{{ site.baseurl }}/assets/images/blank.jpg"
            width="120" height="120"
            alt="Batchelor 2018"/>
     </td>
